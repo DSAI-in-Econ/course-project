@@ -36,7 +36,7 @@ Get your api key and secret from the [Baidu AI](https://ai.baidu.com/tech/nlp/ke
 
 ```bash
 export BAIDU_API_KEY='your api key'
-export SBAIDU_SECRET_KEY='your secret key'
+export BAIDU_SECRET_KEY='your secret key'
 ```
 
 Run the following command to process the data. The processed data will be saved in the `processed/posts.csv` and `processed/comments.csv` file.
